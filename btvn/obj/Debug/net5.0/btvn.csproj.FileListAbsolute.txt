@@ -1,0 +1,16 @@
+D:\CsharpIS385K\btvhcs\btvn\btvn\bin\Debug\net5.0\btvn.exe
+D:\CsharpIS385K\btvhcs\btvn\btvn\bin\Debug\net5.0\btvn.deps.json
+D:\CsharpIS385K\btvhcs\btvn\btvn\bin\Debug\net5.0\btvn.runtimeconfig.json
+D:\CsharpIS385K\btvhcs\btvn\btvn\bin\Debug\net5.0\btvn.runtimeconfig.dev.json
+D:\CsharpIS385K\btvhcs\btvn\btvn\bin\Debug\net5.0\btvn.dll
+D:\CsharpIS385K\btvhcs\btvn\btvn\bin\Debug\net5.0\ref\btvn.dll
+D:\CsharpIS385K\btvhcs\btvn\btvn\bin\Debug\net5.0\btvn.pdb
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\btvn.csprojAssemblyReference.cache
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\btvn.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\btvn.AssemblyInfoInputs.cache
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\btvn.AssemblyInfo.cs
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\btvn.csproj.CoreCompileInputs.cache
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\btvn.dll
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\ref\btvn.dll
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\btvn.pdb
+D:\CsharpIS385K\btvhcs\btvn\btvn\obj\Debug\net5.0\btvn.genruntimeconfig.cache
